@@ -1,0 +1,12 @@
+who to install modules.
+open power shell (in windows option).
+Then Type pip install (flask)is one module It will start downloading flask from the internet. 
+flask is used for making websites.
+If u installed the flask successfully then type in power shell import flask it will show without any error.
+python built-in modules are already installed in python.
+some modules we have to download like (flask) from power shell.
+To exit the power shell use exit()
+pip is a package manager it will bring modules either from the internet or in python itself.
+In a simple way, it collects the modules and is provided to python.
+In pip there are two types of modules 1) built-in modules (which is already come with python).
+2) external modules(which we download from the internet) in form of a power shell.
