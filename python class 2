@@ -1,0 +1,17 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\Users\Khunekar_Sai> python
+Python 3.9.5 (tags/v3.9.5:0a7dcbd, May  3 2021, 17:27:52) [MSC v.1928 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 45*4
+180
+>>> 98/3
+32.666666666666664
+>>> 86-23
+63
+>>> 78+32
+110
+>>> 98%3
+2
+>>>
