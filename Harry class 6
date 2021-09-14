@@ -1,0 +1,15 @@
+Comments, Escape Sequences & Print Statement| Python Tutorials For Absolute Beginners In Hindi #6
+
+#Comments, Escape Sequences & Print Statement| Python Tutorials For Absolute Beginners In Hindi #6#
+#for single line to hide from code we use (# hastag)
+"""for multiple line to hide in code we can use triple quotes in python"""
+
+print("heaven" ,end=" ")
+# ,end="" is a new line character
+print("is better then hell")
+#or we can all so use print("heaven", "is better then hell" ,end=" ") it all so creat new character.
+print("heaven", "is better then hell" ,end=" ")
+#or we can also use print("heaven", "is better then hell") it all so creat new character.
+print("heaven", "is better then hell")
+# thsi only we can print in 3 ways.
+#search escape sequence character is python search in google.
